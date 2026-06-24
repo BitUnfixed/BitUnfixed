@@ -1,6 +1,6 @@
 <div align="center">
 
-# egoixt
+# SARANGA
 
 ### Tech Enthusiast • Student • Future Software Engineer
 
