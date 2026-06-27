@@ -4,7 +4,7 @@
 
 ### Tech Enthusiast • Student • Future Software Engineer
 
-> Exploring technology one project at a time.
+> Exploring technology
 
 <br>
 
