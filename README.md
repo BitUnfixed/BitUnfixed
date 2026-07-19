@@ -69,8 +69,8 @@ Cybersecurity Concepts
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=egoixt&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=egoixt&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BitUnfixed&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BitUnfixed&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 </div>
@@ -81,7 +81,7 @@ Cybersecurity Concepts
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=egoixt&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=BitUnfixed&theme=tokyonight&hide_border=true"/>
 
 </div>
 
