@@ -12,7 +12,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=egoixt&style=for-the-badge&color=00F5FF"/>
+<img src="https://komarev.com/ghpvc/?username=bitunfixed&style=for-the-badge&color=00F5FF"/>
 
 <br><br>
 
