@@ -14,6 +14,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=egoixt&style=for-the-badge&color=00F5FF"/>
 
+<br><br>
+
+![GitHub followers](https://img.shields.io/github/followers/BitUnfixed?style=for-the-badge&color=00F5FF)
+![GitHub User's stars](https://img.shields.io/github/stars/BitUnfixed?affiliations=OWNER&style=for-the-badge&color=00F5FF)
+![Profile Status](https://img.shields.io/badge/Status-Building-blue?style=for-the-badge)
+
 </div>
 
 ---
