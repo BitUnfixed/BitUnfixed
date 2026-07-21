@@ -52,6 +52,13 @@ Always exploring.
 
 <img src="https://skillicons.dev/icons?i=python,cpp,html,css,git,github,vscode,linux"/>
 
+<br><br>
+
+![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=windows)
+![Linux](https://img.shields.io/badge/Linux-Learning-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Open Source](https://img.shields.io/badge/Open_Source-Love-3DA639?style=flat-square&logo=opensourceinitiative)
+![VS Code](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat-square&logo=visualstudiocode)
+
 </p>
 
 ---
