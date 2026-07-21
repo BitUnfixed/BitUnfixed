@@ -108,8 +108,17 @@ Cybersecurity Concepts
 
 ---
 
-# GitHub Trophies
+## 🌐 Connect With Me
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=BitUnfixed&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+<a href="https://www.linkedin.com/in/saranga-saikia-b81956410">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:saranga.codes@gmail.com">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+</a>
+
 </p>
+
