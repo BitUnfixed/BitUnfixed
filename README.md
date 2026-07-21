@@ -106,31 +106,10 @@ Cybersecurity Concepts
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BitUnfixed&theme=tokyo-night&hide_border=true"/>
 </p>
 
-
-# Philosophy
-
-```text
-Learn
-   ↓
-
-Build
-   ↓
-
-Break
-   ↓
-
-Fix
-   ↓
-
-Repeat
-```
-
 ---
 
-<div align="center">
+# GitHub Trophies
 
-### Building today.
-
-### Growing forever.
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=BitUnfixed&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
