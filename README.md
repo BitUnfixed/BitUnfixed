@@ -100,6 +100,13 @@ Cybersecurity Concepts
 
 ---
 
+# Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BitUnfixed&theme=tokyo-night&hide_border=true"/>
+</p>
+
+
 # Philosophy
 
 ```text
